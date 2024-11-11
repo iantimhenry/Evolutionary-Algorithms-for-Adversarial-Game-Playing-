@@ -1,3 +1,5 @@
+### 3VD
+
 a) For the game 3VD there is a Weakly Dominant Strategy Equilibrium. Even if there is  not a Dominant Strategy for any player, there can be a Weakly Dominant Strategy Equilibrium. In this case a Weakly Dominant Strategy Equilibrium is (V, V, V). If one player changes their action and the other players keep theirs, they would all have a worse outcome. No one wants to deviate from this strategy. This would be the best strategy for all the players, but not the best strategy for a single player.   
 
 b) The strategy (V, A, V) is not a Nash Equilibrium for the game 3VD. Nash Equilibrium happens when all the players involved reached their best possible action, even if they are aware of the other players’ strategy, and they don’t wish to change their move. In this case, if P1 changes from (V, A, V) to (A, A, V), he gets a better outcome. Instead of getting (6, 7, 6) with (V, A, V), he gets (9, 9, 5) with (A, A, V). Therefore, (V, A, V) is not a Nash Equilibrium. At least one player would get a better outcome by changing his action.  
